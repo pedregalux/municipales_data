@@ -4,5 +4,8 @@
 * Fuente: Servicio Electoral de Chile. 
 
 Links interesantes -actuales-:
+* España:
 * http://www.elconfidencial.com/elecciones-generales/2015-12-01/prometometro-promesas-elecciones-generales-20d_1107039/
 * http://www.elconfidencial.com/elecciones-generales/2016-07-24/composicion-congreso-diputados-espana-2016_1236222/
+* EE.UU.:
+* https://www.washingtonpost.com/graphics/politics/fact-checker-2016/
